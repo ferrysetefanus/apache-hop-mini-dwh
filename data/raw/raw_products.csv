@@ -1,0 +1,51 @@
+product_id,product_name,category,unit_cost,unit_price
+PRD-001,Beras Ramos Super 5kg,Sembako,64000.00,75000.00
+PRD-002,Beras Pandan Wangi Premium 5kg,Sembako,74000.00,88000.00
+PRD-003,Beras Merah Organik 2kg,Sembako,38000.00,46000.00
+PRD-004,Minyak Goreng Sawit 2L,Sembako,31000.00,36000.00
+PRD-005,Minyak Jagung Sehat 1L,Sembako,45000.00,54000.00
+PRD-006,Minyak Kelapa Murni 1L,Sembako,38000.00,46500.00
+PRD-007,Gula Pasir Kristal Putih 1kg,Sembako,15500.00,18000.00
+PRD-008,Gula Aren Organik 500g,Sembako,22000.00,27500.00
+PRD-009,Tepung Terigu Serbaguna 1kg,Sembako,11000.00,13500.00
+PRD-010,Tepung Beras Putih 500g,Sembako,7500.00,9500.00
+PRD-011,Garam Beryodium 500g,Sembako,4000.00,5500.00
+PRD-012,Telur Ayam Negeri Pack 10 Butir,Sembako,22000.00,26500.00
+PRD-013,Telur Ayam Kampung Pack 6 Butir,Sembako,24000.00,29000.00
+PRD-014,Kopi Bubuk Arabika Aceh Gayo 250g,Minuman,55000.00,68000.00
+PRD-015,Kopi Robusta Lampung 250g,Minuman,32000.00,40000.00
+PRD-016,Kopi Instan 3-in-1 Pack 10s,Minuman,14000.00,17500.00
+PRD-017,Teh Celup Melati Kotak 50s,Minuman,11500.00,14500.00
+PRD-018,Teh Hijau Celup Organik 25s,Minuman,19000.00,24000.00
+PRD-019,Teh Botol Melati 450ml,Minuman,5500.00,7000.00
+PRD-020,Air Mineral Galon 19L,Minuman,16000.00,20000.00
+PRD-021,Air Mineral Botol 600ml,Minuman,2500.00,3500.00
+PRD-022,Jus Jeruk Segar Botol 1L,Minuman,25000.00,32000.00
+PRD-023,Jus Apel Segar Botol 1L,Minuman,26000.00,33500.00
+PRD-024,Sirup Cocopandan 460ml,Minuman,18500.00,23000.00
+PRD-025,Susu UHT Full Cream 1L,Dairy,17500.00,21500.00
+PRD-026,Susu UHT Cokelat 1L,Dairy,17500.00,21500.00
+PRD-027,Susu UHT Low Fat 1L,Dairy,19000.00,23500.00
+PRD-028,Susu Kental Manis Kaleng 370g,Dairy,11000.00,13500.00
+PRD-029,Keju Cheddar Blok 160g,Dairy,21000.00,26000.00
+PRD-030,Mentega Salted Premium 200g,Dairy,28000.00,35000.00
+PRD-031,Yogurt Drink Strawberry 250ml,Dairy,8500.00,11000.00
+PRD-032,Mie Instan Goreng Spesial 85g,Makanan Instan,2800.00,3400.00
+PRD-033,Mie Instan Kuah Kari Ayam 75g,Makanan Instan,2700.00,3300.00
+PRD-034,Mie Instan Goreng Jumbo 120g,Makanan Instan,3600.00,4400.00
+PRD-035,Sarden Kaleng Saus Tomat 425g,Makanan Instan,18000.00,22500.00
+PRD-036,Kornet Daging Sapi Kaleng 340g,Makanan Instan,27000.00,34000.00
+PRD-037,Tuna Kaleng Chunk in Oil 185g,Makanan Instan,22000.00,27500.00
+PRD-038,Bubur Ayam Instan Praktis,Makanan Instan,4500.00,5800.00
+PRD-039,Biskuit Gandum Cokelat 150g,Snack,12000.00,15000.00
+PRD-040,Wafer Cokelat Kaleng 300g,Snack,26000.00,33000.00
+PRD-041,Keripik Kentang Original 68g,Snack,9500.00,12500.00
+PRD-042,Keripik Singkong Balado 150g,Snack,13000.00,16500.00
+PRD-043,Kacang Kulit Gurih 200g,Snack,14500.00,18500.00
+PRD-044,Kacang Mete Panggang Asin 100g,Snack,25000.00,32000.00
+PRD-045,Cokelat Batang Almond 100g,Snack,18000.00,23000.00
+PRD-046,Kecap Manis Botol 550ml,Bumbu Dapur,19000.00,23500.00
+PRD-047,Saus Sambal Ekstra Pedas 335ml,Bumbu Dapur,13500.00,17000.00
+PRD-048,Saus Tomat Botol 335ml,Bumbu Dapur,11500.00,14500.00
+PRD-049,Kaldu Ayam Bubuk Sachet 250g,Bumbu Dapur,9000.00,11500.00
+PRD-050,Bumbu Racik Nasi Goreng 20g,Bumbu Dapur,2000.00,2600.00

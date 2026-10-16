@@ -1,0 +1,7 @@
+{
+  "metadataBaseFolder" : "${PROJECT_HOME}/hop/metadata",
+  "unitTestsBasePath" : "${PROJECT_HOME}",
+  "dataSetsCsvFolder" : "${PROJECT_HOME}/datasets",
+  "enforcingExecutionInHome" : true,
+  "parentProjectName" : "default"
+}

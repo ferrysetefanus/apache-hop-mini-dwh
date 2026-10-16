@@ -1,0 +1,201 @@
+customer_id,customer_name,email,city,province,customer_segment
+CUST-0001,Rizky Setiawan,rizky.setiawan238@yahoo.com,Jakarta Selatan,DKI Jakarta,Member Gold
+CUST-0002,Indah Prasetyo,indah.prasetyo99@corp.mail.id,Makassar,Sulawesi Selatan,Member Gold
+CUST-0003,Mega Suharto,mega.suharto248@yahoo.com,Jakarta Pusat,DKI Jakarta,Regular
+CUST-0004,Hesti Wijaya,hesti.wijaya439@corp.mail.id,Sleman,DI Yogyakarta,Regular
+CUST-0005,Oki Gunawan,oki.gunawan787@gmail.com,Medan,Sumatera Utara,Regular
+CUST-0006,Kartika Suharto,kartika.suharto990@yahoo.com,Tangerang Selatan,Banten,Regular
+CUST-0007,Vina Prasetyo,vina.prasetyo877@outlook.co.id,Jakarta Barat,DKI Jakarta,Regular
+CUST-0008,Wahyu Lubis,wahyu.lubis137@corp.mail.id,Jakarta Pusat,DKI Jakarta,Member Gold
+CUST-0009,Zahra Wahyudi,zahra.wahyudi916@corp.mail.id,Sleman,DI Yogyakarta,Regular
+CUST-0010,Yusuf Permana,yusuf.permana801@yahoo.com,Denpasar,Bali,Regular
+CUST-0011,Siti Wahyudi,siti.wahyudi294@tbsfood.co.id,Depok,Jawa Barat,Member Platinum
+CUST-0012,Endah Simanjuntak,endah.simanjuntak696@yahoo.com,Bandung,Jawa Barat,Regular
+CUST-0013,Rina Saputra,rina.saputra756@corp.mail.id,Palembang,Sumatera Selatan,Member Silver
+CUST-0014,Pratama Suryono,pratama.suryono234@corp.mail.id,Semarang,Jawa Tengah,Regular
+CUST-0015,Wulan Panjaitan,wulan.panjaitan834@gmail.com,Jakarta Pusat,DKI Jakarta,Regular
+CUST-0016,Utami Sitorus,utami.sitorus907@corp.mail.id,Bogor,Jawa Barat,Regular
+CUST-0017,Anisa Panjaitan,anisa.panjaitan915@tbsfood.co.id,Bekasi,Jawa Barat,Member Silver
+CUST-0018,Sari Susanto,sari.susanto772@yahoo.com,Jakarta Utara,DKI Jakarta,Regular
+CUST-0019,Kurniawan Lubis,kurniawan.lubis418@corp.mail.id,Balikpapan,Kalimantan Timur,Member Silver
+CUST-0020,Yusuf Siregar,yusuf.siregar783@gmail.com,Jakarta Utara,DKI Jakarta,Member Silver
+CUST-0021,Dewi Setiawan,dewi.setiawan620@tbsfood.co.id,Jakarta Utara,DKI Jakarta,Member Silver
+CUST-0022,Eko Hutapea,eko.hutapea551@tbsfood.co.id,Malang,Jawa Timur,Member Silver
+CUST-0023,Qori Santoso,qori.santoso778@corp.mail.id,Makassar,Sulawesi Selatan,Member Gold
+CUST-0024,Rina Tanjung,rina.tanjung474@yahoo.com,Jakarta Timur,DKI Jakarta,Regular
+CUST-0025,Ahmad Lubis,ahmad.lubis944@corp.mail.id,Yogyakarta,DI Yogyakarta,Member Gold
+CUST-0026,Gita Ginting,gita.ginting166@yahoo.com,Bandar Lampung,Lampung,Member Silver
+CUST-0027,Yusuf Suryono,yusuf.suryono950@corp.mail.id,Sleman,DI Yogyakarta,Corporate
+CUST-0028,Ahmad Panjaitan,ahmad.panjaitan909@outlook.co.id,Surakarta,Jawa Tengah,Regular
+CUST-0029,Tri Nasution,tri.nasution979@corp.mail.id,Jakarta Pusat,DKI Jakarta,Regular
+CUST-0030,Fajar Wahyudi,fajar.wahyudi788@gmail.com,Balikpapan,Kalimantan Timur,Member Silver
+CUST-0031,Jessica Utomo,jessica.utomo179@corp.mail.id,Jakarta Utara,DKI Jakarta,Member Silver
+CUST-0032,Qori Anggraini,qori.anggraini961@yahoo.com,Palembang,Sumatera Selatan,Regular
+CUST-0033,Jessica Permana,jessica.permana458@outlook.co.id,Denpasar,Bali,Regular
+CUST-0034,Ilham Gunawan,ilham.gunawan356@gmail.com,Jakarta Timur,DKI Jakarta,Regular
+CUST-0035,Budi Siregar,budi.siregar734@gmail.com,Medan,Sumatera Utara,Regular
+CUST-0036,Rizky Hidayat,rizky.hidayat890@gmail.com,Depok,Jawa Barat,Regular
+CUST-0037,Vina Saputra,vina.saputra229@tbsfood.co.id,Yogyakarta,DI Yogyakarta,Regular
+CUST-0038,Jessica Utomo,jessica.utomo600@corp.mail.id,Balikpapan,Kalimantan Timur,Member Platinum
+CUST-0039,Firman Nasution,firman.nasution106@yahoo.com,Surakarta,Jawa Tengah,Member Gold
+CUST-0040,Gita Suharto,gita.suharto894@tbsfood.co.id,Surabaya,Jawa Timur,Regular
+CUST-0041,Bayu Hidayat,bayu.hidayat72@gmail.com,Makassar,Sulawesi Selatan,Member Silver
+CUST-0042,Aditya Tanjung,aditya.tanjung559@yahoo.com,Jakarta Timur,DKI Jakarta,Regular
+CUST-0043,Dian Utomo,dian.utomo265@tbsfood.co.id,Sidoarjo,Jawa Timur,Regular
+CUST-0044,Eko Gunawan,eko.gunawan866@corp.mail.id,Sleman,DI Yogyakarta,Regular
+CUST-0045,Ahmad Wahyudi,ahmad.wahyudi502@tbsfood.co.id,Depok,Jawa Barat,Regular
+CUST-0046,Nurul Sitorus,nurul.sitorus409@gmail.com,Jakarta Pusat,DKI Jakarta,Regular
+CUST-0047,Qori Susanto,qori.susanto687@corp.mail.id,Tangerang,Banten,Regular
+CUST-0048,Anisa Purnama,anisa.purnama69@yahoo.com,Jakarta Utara,DKI Jakarta,Regular
+CUST-0049,Mega Hidayat,mega.hidayat608@gmail.com,Balikpapan,Kalimantan Timur,Regular
+CUST-0050,Firman Subekti,firman.subekti92@corp.mail.id,Yogyakarta,DI Yogyakarta,Regular
+CUST-0051,Lestari Saputra,lestari.saputra423@yahoo.com,Palembang,Sumatera Selatan,Regular
+CUST-0052,Hadi Nasution,hadi.nasution93@corp.mail.id,Medan,Sumatera Utara,Member Silver
+CUST-0053,Bambang Anggraini,bambang.anggraini695@yahoo.com,Tangerang Selatan,Banten,Member Platinum
+CUST-0054,Anisa Panjaitan,anisa.panjaitan697@yahoo.com,Depok,Jawa Barat,Regular
+CUST-0055,Sari Ginting,sari.ginting19@gmail.com,Semarang,Jawa Tengah,Regular
+CUST-0056,Endah Prasetyo,endah.prasetyo281@corp.mail.id,Jakarta Barat,DKI Jakarta,Member Silver
+CUST-0057,Indah Harahap,indah.harahap301@outlook.co.id,Jakarta Barat,DKI Jakarta,Member Platinum
+CUST-0058,Kartika Gunawan,kartika.gunawan836@corp.mail.id,Sleman,DI Yogyakarta,Member Gold
+CUST-0059,Sari Anggraini,sari.anggraini316@corp.mail.id,Jakarta Selatan,DKI Jakarta,Member Silver
+CUST-0060,Taufik Prasetyo,taufik.prasetyo770@gmail.com,Jakarta Utara,DKI Jakarta,Regular
+CUST-0061,Kurniawan Nugraha,kurniawan.nugraha744@yahoo.com,Bogor,Jawa Barat,Regular
+CUST-0062,Vina Wibowo,vina.wibowo527@outlook.co.id,Makassar,Sulawesi Selatan,Member Silver
+CUST-0063,Gilang Lubis,gilang.lubis859@tbsfood.co.id,Jakarta Pusat,DKI Jakarta,Regular
+CUST-0064,Rina Kusuma,rina.kusuma662@yahoo.com,Jakarta Selatan,DKI Jakarta,Regular
+CUST-0065,Qori Suryono,qori.suryono584@tbsfood.co.id,Balikpapan,Kalimantan Timur,Regular
+CUST-0066,Ahmad Setiawan,ahmad.setiawan568@yahoo.com,Jakarta Barat,DKI Jakarta,Member Platinum
+CUST-0067,Chandra Simanjuntak,chandra.simanjuntak140@tbsfood.co.id,Medan,Sumatera Utara,Member Silver
+CUST-0068,Chandra Ginting,chandra.ginting930@gmail.com,Surabaya,Jawa Timur,Member Platinum
+CUST-0069,Wahyu Wibowo,wahyu.wibowo372@gmail.com,Makassar,Sulawesi Selatan,Regular
+CUST-0070,Kurniawan Tambunan,kurniawan.tambunan895@yahoo.com,Palembang,Sumatera Selatan,Member Gold
+CUST-0071,Kartika Handoko,kartika.handoko811@outlook.co.id,Sidoarjo,Jawa Timur,Regular
+CUST-0072,Bambang Nasution,bambang.nasution401@gmail.com,Bogor,Jawa Barat,Regular
+CUST-0073,Chandra Irawan,chandra.irawan368@tbsfood.co.id,Depok,Jawa Barat,Regular
+CUST-0074,Tri Siregar,tri.siregar418@yahoo.com,Depok,Jawa Barat,Regular
+CUST-0075,Vina Pasaribu,vina.pasaribu369@outlook.co.id,Jakarta Barat,DKI Jakarta,Corporate
+CUST-0076,Sari Subekti,sari.subekti349@corp.mail.id,Malang,Jawa Timur,Member Silver
+CUST-0077,Budi Setiawan,budi.setiawan49@outlook.co.id,Bogor,Jawa Barat,Regular
+CUST-0078,Gita Suharto,gita.suharto456@outlook.co.id,Surabaya,Jawa Timur,Member Gold
+CUST-0079,Nugroho Subekti,nugroho.subekti204@corp.mail.id,Jakarta Timur,DKI Jakarta,Regular
+CUST-0080,Qori Kusuma,qori.kusuma957@corp.mail.id,Denpasar,Bali,Regular
+CUST-0081,Jessica Permana,jessica.permana648@outlook.co.id,Surabaya,Jawa Timur,Regular
+CUST-0082,Utami Setiawan,utami.setiawan326@corp.mail.id,Balikpapan,Kalimantan Timur,Member Platinum
+CUST-0083,Taufik Tambunan,taufik.tambunan577@outlook.co.id,Tangerang Selatan,Banten,Regular
+CUST-0084,Indah Permana,indah.permana703@tbsfood.co.id,Sidoarjo,Jawa Timur,Member Silver
+CUST-0085,Cahyo Handoko,cahyo.handoko571@tbsfood.co.id,Palembang,Sumatera Selatan,Member Silver
+CUST-0086,Ahmad Ginting,ahmad.ginting631@corp.mail.id,Tangerang,Banten,Regular
+CUST-0087,Sari Panjaitan,sari.panjaitan533@yahoo.com,Semarang,Jawa Tengah,Regular
+CUST-0088,Firman Suryono,firman.suryono689@corp.mail.id,Makassar,Sulawesi Selatan,Regular
+CUST-0089,Rizky Tanjung,rizky.tanjung698@yahoo.com,Jakarta Barat,DKI Jakarta,Member Gold
+CUST-0090,Tri Siregar,tri.siregar260@gmail.com,Bekasi,Jawa Barat,Regular
+CUST-0091,Firman Saputra,firman.saputra209@corp.mail.id,Semarang,Jawa Tengah,Regular
+CUST-0092,Anisa Hutapea,anisa.hutapea681@yahoo.com,Surakarta,Jawa Tengah,Regular
+CUST-0093,Yoga Santoso,yoga.santoso190@yahoo.com,Jakarta Timur,DKI Jakarta,Member Gold
+CUST-0094,Yoga Anggraini,yoga.anggraini949@yahoo.com,Semarang,Jawa Tengah,Regular
+CUST-0095,Hadi Susanto,hadi.susanto582@corp.mail.id,Jakarta Utara,DKI Jakarta,Member Gold
+CUST-0096,Nugroho Panjaitan,nugroho.panjaitan446@corp.mail.id,Semarang,Jawa Tengah,Member Silver
+CUST-0097,Kurniawan Gunawan,kurniawan.gunawan470@tbsfood.co.id,Bandung,Jawa Barat,Member Gold
+CUST-0098,Qori Nasution,qori.nasution506@corp.mail.id,Bandar Lampung,Lampung,Regular
+CUST-0099,Rizky Nasution,rizky.nasution250@outlook.co.id,Bogor,Jawa Barat,Regular
+CUST-0100,Rina Tanjung,rina.tanjung151@gmail.com,Tangerang Selatan,Banten,Member Platinum
+CUST-0101,Joko Siregar,joko.siregar75@yahoo.com,Malang,Jawa Timur,Member Silver
+CUST-0102,Bambang Tambunan,bambang.tambunan73@tbsfood.co.id,Tangerang Selatan,Banten,Member Silver
+CUST-0103,Nurul Tambunan,nurul.tambunan978@corp.mail.id,Malang,Jawa Timur,Member Platinum
+CUST-0104,Yoga Wijaya,yoga.wijaya975@gmail.com,Medan,Sumatera Utara,Regular
+CUST-0105,Wahyu Ginting,wahyu.ginting561@tbsfood.co.id,Malang,Jawa Timur,Member Platinum
+CUST-0106,Cahyo Siregar,cahyo.siregar507@tbsfood.co.id,Surakarta,Jawa Tengah,Regular
+CUST-0107,Budi Hutapea,budi.hutapea751@tbsfood.co.id,Tangerang Selatan,Banten,Member Silver
+CUST-0108,Kartika Susanto,kartika.susanto37@corp.mail.id,Jakarta Utara,DKI Jakarta,Corporate
+CUST-0109,Aditya Wijaya,aditya.wijaya897@yahoo.com,Jakarta Barat,DKI Jakarta,Member Silver
+CUST-0110,Endah Handoko,endah.handoko226@outlook.co.id,Jakarta Pusat,DKI Jakarta,Regular
+CUST-0111,Endah Panjaitan,endah.panjaitan294@tbsfood.co.id,Tangerang Selatan,Banten,Member Gold
+CUST-0112,Bambang Lubis,bambang.lubis63@corp.mail.id,Jakarta Barat,DKI Jakarta,Member Silver
+CUST-0113,Wahyu Siregar,wahyu.siregar782@gmail.com,Bandar Lampung,Lampung,Regular
+CUST-0114,Budi Nasution,budi.nasution166@corp.mail.id,Bekasi,Jawa Barat,Member Gold
+CUST-0115,Pratama Utomo,pratama.utomo980@corp.mail.id,Surakarta,Jawa Tengah,Member Silver
+CUST-0116,Nurul Susanto,nurul.susanto181@outlook.co.id,Denpasar,Bali,Regular
+CUST-0117,Nugroho Setiawan,nugroho.setiawan602@gmail.com,Bandung,Jawa Barat,Corporate
+CUST-0118,Budi Ginting,budi.ginting416@tbsfood.co.id,Medan,Sumatera Utara,Member Silver
+CUST-0119,Anisa Permana,anisa.permana114@yahoo.com,Jakarta Barat,DKI Jakarta,Member Silver
+CUST-0120,Yoga Ginting,yoga.ginting825@gmail.com,Makassar,Sulawesi Selatan,Member Silver
+CUST-0121,Lukman Kusuma,lukman.kusuma80@outlook.co.id,Surabaya,Jawa Timur,Member Silver
+CUST-0122,Hesti Tanjung,hesti.tanjung118@tbsfood.co.id,Jakarta Selatan,DKI Jakarta,Member Gold
+CUST-0123,Citra Simanjuntak,citra.simanjuntak734@tbsfood.co.id,Bandar Lampung,Lampung,Member Platinum
+CUST-0124,Joko Suharto,joko.suharto640@outlook.co.id,Bandung,Jawa Barat,Member Gold
+CUST-0125,Jessica Irawan,jessica.irawan284@corp.mail.id,Semarang,Jawa Tengah,Regular
+CUST-0126,Utami Nasution,utami.nasution259@tbsfood.co.id,Jakarta Barat,DKI Jakarta,Regular
+CUST-0127,Endah Hutapea,endah.hutapea196@outlook.co.id,Tangerang Selatan,Banten,Regular
+CUST-0128,Gilang Wibowo,gilang.wibowo296@outlook.co.id,Surabaya,Jawa Timur,Member Gold
+CUST-0129,Nugroho Pasaribu,nugroho.pasaribu97@yahoo.com,Sleman,DI Yogyakarta,Regular
+CUST-0130,Pratama Tambunan,pratama.tambunan717@yahoo.com,Surakarta,Jawa Tengah,Member Silver
+CUST-0131,Firman Purnama,firman.purnama311@gmail.com,Semarang,Jawa Tengah,Member Gold
+CUST-0132,Oki Sitorus,oki.sitorus387@corp.mail.id,Denpasar,Bali,Regular
+CUST-0133,Firman Anggraini,firman.anggraini348@corp.mail.id,Surabaya,Jawa Timur,Regular
+CUST-0134,Wahyu Susanto,wahyu.susanto133@yahoo.com,Bogor,Jawa Barat,Regular
+CUST-0135,Bayu Permana,bayu.permana983@corp.mail.id,Tangerang Selatan,Banten,Regular
+CUST-0136,Yoga Handoko,yoga.handoko293@tbsfood.co.id,Bekasi,Jawa Barat,Regular
+CUST-0137,Bayu Anggraini,bayu.anggraini862@gmail.com,Palembang,Sumatera Selatan,Regular
+CUST-0138,Muhammad Sinaga,muhammad.sinaga24@outlook.co.id,Depok,Jawa Barat,Regular
+CUST-0139,Anisa Utomo,anisa.utomo576@gmail.com,Bogor,Jawa Barat,Regular
+CUST-0140,Siti Utomo,siti.utomo115@tbsfood.co.id,Bandar Lampung,Lampung,Member Platinum
+CUST-0141,Ahmad Sinaga,ahmad.sinaga198@outlook.co.id,Surakarta,Jawa Tengah,Member Silver
+CUST-0142,Dewi Lubis,dewi.lubis420@gmail.com,Surakarta,Jawa Tengah,Regular
+CUST-0143,Gilang Saputra,gilang.saputra165@gmail.com,Medan,Sumatera Utara,Member Silver
+CUST-0144,Joko Ginting,joko.ginting581@gmail.com,Jakarta Barat,DKI Jakarta,Corporate
+CUST-0145,Bambang Siregar,bambang.siregar314@tbsfood.co.id,Yogyakarta,DI Yogyakarta,Regular
+CUST-0146,Mega Suharto,mega.suharto634@gmail.com,Tangerang,Banten,Member Silver
+CUST-0147,Cahyo Prasetyo,cahyo.prasetyo686@outlook.co.id,Bekasi,Jawa Barat,Member Silver
+CUST-0148,Fajar Suryono,fajar.suryono170@gmail.com,Depok,Jawa Barat,Regular
+CUST-0149,Ahmad Tambunan,ahmad.tambunan308@tbsfood.co.id,Semarang,Jawa Tengah,Member Silver
+CUST-0150,Chandra Siregar,chandra.siregar82@tbsfood.co.id,Tangerang,Banten,Member Gold
+CUST-0151,Wulan Siregar,wulan.siregar687@corp.mail.id,Bogor,Jawa Barat,Member Gold
+CUST-0152,Muhammad Suharto,muhammad.suharto940@yahoo.com,Jakarta Timur,DKI Jakarta,Member Silver
+CUST-0153,Rina Nugraha,rina.nugraha619@outlook.co.id,Jakarta Barat,DKI Jakarta,Regular
+CUST-0154,Cahyo Sinaga,cahyo.sinaga726@outlook.co.id,Semarang,Jawa Tengah,Regular
+CUST-0155,Aditya Pasaribu,aditya.pasaribu92@tbsfood.co.id,Yogyakarta,DI Yogyakarta,Member Silver
+CUST-0156,Nugroho Kusuma,nugroho.kusuma266@corp.mail.id,Sidoarjo,Jawa Timur,Member Gold
+CUST-0157,Budi Wahyudi,budi.wahyudi611@corp.mail.id,Depok,Jawa Barat,Corporate
+CUST-0158,Budi Pasaribu,budi.pasaribu491@yahoo.com,Medan,Sumatera Utara,Regular
+CUST-0159,Ilham Gunawan,ilham.gunawan456@corp.mail.id,Bogor,Jawa Barat,Regular
+CUST-0160,Rizky Purnama,rizky.purnama351@tbsfood.co.id,Jakarta Barat,DKI Jakarta,Member Silver
+CUST-0161,Utami Prasetyo,utami.prasetyo305@tbsfood.co.id,Bandung,Jawa Barat,Regular
+CUST-0162,Taufik Sitorus,taufik.sitorus332@gmail.com,Sleman,DI Yogyakarta,Regular
+CUST-0163,Qori Panjaitan,qori.panjaitan895@tbsfood.co.id,Jakarta Timur,DKI Jakarta,Corporate
+CUST-0164,Hesti Santoso,hesti.santoso433@tbsfood.co.id,Makassar,Sulawesi Selatan,Member Platinum
+CUST-0165,Dewi Permana,dewi.permana650@tbsfood.co.id,Yogyakarta,DI Yogyakarta,Regular
+CUST-0166,Dian Hidayat,dian.hidayat959@yahoo.com,Bekasi,Jawa Barat,Regular
+CUST-0167,Siti Gunawan,siti.gunawan655@gmail.com,Denpasar,Bali,Member Silver
+CUST-0168,Nugroho Nasution,nugroho.nasution24@corp.mail.id,Denpasar,Bali,Regular
+CUST-0169,Kurniawan Tambunan,kurniawan.tambunan482@gmail.com,Jakarta Barat,DKI Jakarta,Regular
+CUST-0170,Hadi Nugraha,hadi.nugraha531@outlook.co.id,Surakarta,Jawa Tengah,Member Platinum
+CUST-0171,Anisa Pasaribu,anisa.pasaribu259@tbsfood.co.id,Sidoarjo,Jawa Timur,Member Gold
+CUST-0172,Endah Nugraha,endah.nugraha530@corp.mail.id,Malang,Jawa Timur,Regular
+CUST-0173,Cahyo Utomo,cahyo.utomo358@tbsfood.co.id,Jakarta Barat,DKI Jakarta,Regular
+CUST-0174,Hesti Pasaribu,hesti.pasaribu867@outlook.co.id,Jakarta Selatan,DKI Jakarta,Regular
+CUST-0175,Mega Purnama,mega.purnama363@tbsfood.co.id,Jakarta Utara,DKI Jakarta,Regular
+CUST-0176,Vina Hutapea,vina.hutapea724@yahoo.com,Semarang,Jawa Tengah,Member Platinum
+CUST-0177,Pratama Hutapea,pratama.hutapea54@tbsfood.co.id,Depok,Jawa Barat,Member Platinum
+CUST-0178,Utami Irawan,utami.irawan405@tbsfood.co.id,Denpasar,Bali,Member Platinum
+CUST-0179,Taufik Nugraha,taufik.nugraha524@yahoo.com,Surakarta,Jawa Tengah,Corporate
+CUST-0180,Mega Tanjung,mega.tanjung112@tbsfood.co.id,Jakarta Timur,DKI Jakarta,Member Platinum
+CUST-0181,Ilham Susanto,ilham.susanto901@tbsfood.co.id,Jakarta Selatan,DKI Jakarta,Member Gold
+CUST-0182,Sari Nugraha,sari.nugraha356@outlook.co.id,Jakarta Barat,DKI Jakarta,Member Silver
+CUST-0183,Putri Sitorus,putri.sitorus882@outlook.co.id,Bandar Lampung,Lampung,Regular
+CUST-0184,Wulan Hutapea,wulan.hutapea903@tbsfood.co.id,Tangerang Selatan,Banten,Member Silver
+CUST-0185,Jessica Kusuma,jessica.kusuma242@outlook.co.id,Palembang,Sumatera Selatan,Regular
+CUST-0186,Cahyo Wahyudi,cahyo.wahyudi464@gmail.com,Sidoarjo,Jawa Timur,Corporate
+CUST-0187,Kartika Ginting,kartika.ginting310@gmail.com,Jakarta Selatan,DKI Jakarta,Regular
+CUST-0188,Wahyu Simanjuntak,wahyu.simanjuntak431@corp.mail.id,Sidoarjo,Jawa Timur,Regular
+CUST-0189,Lukman Handoko,lukman.handoko901@corp.mail.id,Bandung,Jawa Barat,Regular
+CUST-0190,Zahra Nasution,zahra.nasution247@yahoo.com,Surakarta,Jawa Tengah,Member Platinum
+CUST-0191,Endah Lubis,endah.lubis930@gmail.com,Semarang,Jawa Tengah,Regular
+CUST-0192,Endah Sinaga,endah.sinaga462@gmail.com,Makassar,Sulawesi Selatan,Member Silver
+CUST-0193,Wahyu Ginting,wahyu.ginting477@outlook.co.id,Bandar Lampung,Lampung,Corporate
+CUST-0194,Tri Permana,tri.permana252@gmail.com,Malang,Jawa Timur,Member Platinum
+CUST-0195,Zahra Harahap,zahra.harahap32@outlook.co.id,Medan,Sumatera Utara,Regular
+CUST-0196,Taufik Sitorus,taufik.sitorus942@gmail.com,Bogor,Jawa Barat,Regular
+CUST-0197,Nugroho Purnama,nugroho.purnama631@yahoo.com,Tangerang,Banten,Member Gold
+CUST-0198,Wahyu Siregar,wahyu.siregar704@outlook.co.id,Bandar Lampung,Lampung,Regular
+CUST-0199,Bayu Utomo,bayu.utomo326@gmail.com,Bandar Lampung,Lampung,Regular
+CUST-0200,Dian Kusuma,dian.kusuma102@yahoo.com,Medan,Sumatera Utara,Regular
